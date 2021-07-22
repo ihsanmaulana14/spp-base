@@ -4,7 +4,8 @@
 note:install seperti biasa tidak ada pengaturan khusus
 
 2. download Source Code aplikasi SPP BASE
-	cara: klick "code" berwarna hijau
+	cara: 
+	klick "code" berwarna hijau -> download Zip
 	ekstrak file "base-spp"
 	simpan di folder c:/xampp/htdocs
 	
