@@ -15,4 +15,11 @@ note:install seperti biasa tidak ada pengaturan khusus
 4. start Apache dan MySql   
 
 5. buka google/browser lainnya
-6. ketik link alikasi spp-base:localhost/spp-base/
+
+6. import database
+	cara:
+	- ketik link phpmyadmin: localhost/phpmyadmin/
+	- buat database baru dengan nama "db_spp"
+	- import , choose file db_spp.sql di directory c:/xampp/htdocs/spp-base ,lalu go.
+	
+7. link alikasi spp-base:localhost/spp-base/
